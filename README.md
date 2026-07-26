@@ -1,19 +1,32 @@
-### Hi there 👋
+# Hi, I'm Emily 👋
 
-- 📫 How to reach me: https://emily-keymon.github.io/Emily-Keymon/
-- 📫 How to reach me: https://linkedin.com/in/ekeymon20
+Finance and Analytics Leader with 25+ years of experience helping organizations improve business performance through data-driven decision-making, business intelligence, forecasting, and performance management.
 
-<!--
-**Emily-Keymon/Emily-Keymon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My background spans manufacturing, supply chain, operations, and finance, where I have developed KPI frameworks, executive reporting systems, dashboards, and forecasting models that support strategic planning and organizational growth.
 
-Here are some ideas to get you started:
+## Areas of Expertise
+- Business Intelligence
+- Revenue Analytics
+- Executive Reporting
+- Data Visualization
+- KPI Governance
+- Forecasting & Scenario Planning
+- SQL
+- Tableau
+- Performance Analytics
+- Business Process Improvement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Advanced SQL
+- Power BI
+- Data Modeling
+- Analytics Automation
+
+## Portfolio
+🌐 [View My Analytics Portfolio](https://emily-keymon.github.io/Emily-Keymon/)
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/ekeymon20
+- Portfolio: [Emily Keymon Analytics Portfolio](https://emily-keymon.github.io/Emily-Keymon/)
+
+> Turning complex business data into actionable insights that drive measurable results.
