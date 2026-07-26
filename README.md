@@ -22,9 +22,6 @@ My background spans manufacturing, supply chain, operations, and finance, where 
 - Data Modeling
 - Analytics Automation
 
-## Portfolio
-🌐 [View My Analytics Portfolio](https://emily-keymon.github.io/Emily-Keymon/)
-
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/ekeymon20
 - Portfolio: [Emily Keymon Analytics Portfolio](https://emily-keymon.github.io/Emily-Keymon/)
