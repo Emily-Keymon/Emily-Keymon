@@ -24,6 +24,5 @@ My background spans manufacturing, supply chain, operations, and finance, where 
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/ekeymon20
-- Portfolio: [Emily Keymon Analytics Portfolio](https://emily-keymon.github.io/Emily-Keymon/)
 
 > Turning complex business data into actionable insights that drive measurable results.
